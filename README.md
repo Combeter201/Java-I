@@ -1,4 +1,4 @@
- # Java I ![Intellij](https://raw.githubusercontent.com/Combeter201/Java-I/master/src/IntellijIcon.png) ![Java](https://raw.githubusercontent.com/Combeter201/Java-I/master/src/JavaIcon.png)
+ # Java I ![Intellij]() ![Java](https://raw.githubusercontent.com/Combeter201/Java-I/master/src/JavaIcon.png)
 *This Repository contains every Exercise and Solution of the Java I Course from my First Semester* 
 
 * [Chapter 1](https://github.com/Combeter201/Java-I/tree/master/src/Chapter_1)
