@@ -10,7 +10,7 @@ Install the latest Version of [IntelliJ](https://www.jetbrains.com/de-de/idea/do
 
 |Week| Exercises | Solutions |
 | --- | --- | --- |
-| 1 | Hello World, simple calculation | :flashlight: |
+| 1 | Hello World, simple calculation | :flashlight: - [ ] Hallo |
 | 2 | swap Numbers, Geometry calculation, PQ-formula, Time output| :flashlight: |
 | 3 | modulo, Pizza calculation, Characters, Dice | :flashlight: |
 | 4 | valid Matnumber, valid Time, boolean, leap year | :flashlight: |
@@ -24,10 +24,7 @@ Install the latest Version of [IntelliJ](https://www.jetbrains.com/de-de/idea/do
 | 12 | productioncounter, room/students, 2-dimensional fields, overload | :flashlight: |
 | 13 | lotterylist, chained lists | :flashlight: |
 
-- [ ] Hallo
-- [X] Hallo
-[ ] Hallo
-[X] Hallo
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
