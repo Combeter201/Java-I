@@ -4,7 +4,7 @@
 
 ## IntelliJ IDEA ![Intellij](https://img.icons8.com/color/26/000000/intellij-idea.png)
 
-Install the latest Version of [IntelliJ](https://www.jetbrains.com/de-de/idea/download/#section=windows)
+I was using [IntelliJ](https://www.jetbrains.com/de-de/idea/download/#section=windows) for coding in Java, because it's very easy to work with
 
 ## Exercises Solutions
 
