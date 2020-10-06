@@ -10,21 +10,24 @@ Install the latest Version of [IntelliJ](https://www.jetbrains.com/de-de/idea/do
 
 |Week| Exercises | Solutions |
 | --- | --- | --- |
-| 1 | Hello World, simple calculation |  |
-| 2 | swap Numbers, Geometry calculation, PQ-formula, Time output|  |
-| 3 | modulo, Pizza calculation, Characters, Dice |  |
-| 4 | valid Matnumber, valid Time, boolean, leap year |  |
-| 5 | free fall, row calculation, small 1x1, prime numbers |  |
-| 6 | temperature table, cross product, π-approximation, potency |  |
-| 7 | rekursion, round, faculty, display triangle |  |
-| 8 | Stars and Digits, fraction numbers, sinus calculation |  |
-| 9 | lottery, arithmetic mean/min/max, standard degression, concatenation |  |
-| 10 | Arrays, console input, hangman, String methods |  |
-| 11 | fields, classes/objects, pizza, simple calculator |  |
-| 12 | productioncounter, room/students, 2-dimensional fields, overload |  |
-| 13 | lotterylist, chained lists |  |
+| 1 | Hello World, simple calculation | :flashlight: |
+| 2 | swap Numbers, Geometry calculation, PQ-formula, Time output| :flashlight: |
+| 3 | modulo, Pizza calculation, Characters, Dice | :flashlight: |
+| 4 | valid Matnumber, valid Time, boolean, leap year | :flashlight: |
+| 5 | free fall, row calculation, small 1x1, prime numbers | :flashlight: |
+| 6 | temperature table, cross product, π-approximation, potency | :flashlight: |
+| 7 | rekursion, round, faculty, display triangle | :flashlight: |
+| 8 | Stars and Digits, fraction numbers, sinus calculation | :flashlight: |
+| 9 | lottery, arithmetic mean/min/max, standard degression, concatenation | :flashlight: |
+| 10 | Arrays, console input, hangman, String methods | :flashlight: |
+| 11 | fields, classes/objects, pizza, simple calculator | :flashlight: |
+| 12 | productioncounter, room/students, 2-dimensional fields, overload | :flashlight: |
+| 13 | lotterylist, chained lists | :flashlight: |
 
-:flashlight:	
+- [ ] Hallo
+- [X] Hallo
+[ ] Hallo
+[X] Hallo
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
