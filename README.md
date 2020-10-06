@@ -10,7 +10,7 @@ Install the latest Version of [IntelliJ](https://www.jetbrains.com/de-de/idea/do
 
 |Week| Exercises | Solutions |
 | --- | --- | --- |
-| 1 | Hello World, simple calculation | :flashlight: :page_facing_up:	:clipboard: |
+| 1 | Hello World, simple calculation | :flashlight: CLICK ON THE PAGE :page_facing_up:	:clipboard: |
 | 2 | swap Numbers, Geometry calculation, PQ-formula, Time output| :flashlight: |
 | 3 | modulo, Pizza calculation, Characters, Dice | :flashlight: |
 | 4 | valid Matnumber, valid Time, boolean, leap year | :flashlight: |
