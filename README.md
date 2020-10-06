@@ -23,8 +23,3 @@
 | 11 | fields, classes/objects, pizza, simple calculator | :flashlight: click on the page :page_facing_up: |
 | 12 | productioncounter, room/students, 2-dimensional fields, overload | :flashlight: click on the page :page_facing_up: |
 | 13 | lotterylist, chained lists | :flashlight: click on the page :page_facing_up: |
-
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
