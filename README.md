@@ -4,7 +4,7 @@
 
 ## IntelliJ IDEA ![Intellij](https://img.icons8.com/color/26/000000/intellij-idea.png)
 
-I was using [IntelliJ](https://www.jetbrains.com/de-de/idea/download/#section=windows) for coding in Java, because it's very easy to work with
+[IntelliJ](https://www.jetbrains.com/de-de/idea/download/#section=windows) is a good and easy to work with IDEA for coding in Java
 
 ## Exercises Solutions
 
