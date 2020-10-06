@@ -11,7 +11,7 @@
 |Week| Exercises | Solutions |
 | --- | --- | --- |
 | 1 | Hello World, simple calculation | :flashlight: [show me](https://github.com/Combeter201/Java-I/tree/master/src/units/first) :page_facing_up: |
-| 2 | swap Numbers, Geometry calculation, PQ-formula, Time output| :flashlight: click on the page :page_facing_up: |
+| 2 | swap Numbers, Geometry calculation, PQ-formula, Time output| :flashlight: [click on the page](https://github.com/Combeter201/Java-I/tree/master/src/units/second) :page_facing_up: |
 | 3 | modulo, Pizza calculation, Characters, Dice | :flashlight: click on the page :page_facing_up: |
 | 4 | valid Matnumber, valid Time, boolean, leap year | :flashlight: click on the page :page_facing_up: |
 | 5 | free fall, row calculation, small 1x1, prime numbers | :flashlight: click on the page :page_facing_up: |
