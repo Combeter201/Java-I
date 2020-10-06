@@ -1,16 +1,30 @@
- # Java I ![Intellij](https://img.icons8.com/color/32/000000/intellij-idea.png)![Java](https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png)
-*This Repository contains every Exercise and Solution of the Java I Course from my First Semester* 
+# Java I ![Java](https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png)
 
-* [Unit 1](https://github.com/Combeter201/Java-I/tree/master/src/units/first)
-* [Unit 2](https://github.com/Combeter201/Java-I/tree/master/src/units/second)
-* [Unit 3](https://github.com/Combeter201/Java-I/tree/master/src/units/third)
-* [Unit 4](https://github.com/Combeter201/Java-I/tree/master/src/units/fourth)
-* [Unit 5](https://github.com/Combeter201/Java-I/tree/master/src/units/fifth)
-* [Unit 6](https://github.com/Combeter201/Java-I/tree/master/src/units/sixth)
-* [Unit 7](https://github.com/Combeter201/Java-I/tree/master/src/units/seventh)
-* [Unit 8](https://github.com/Combeter201/Java-I/tree/master/src/units/eighth)
-* [Unit 9](https://github.com/Combeter201/Java-I/tree/master/src/units/ninth)
-* [Unit 10](https://github.com/Combeter201/Java-I/tree/master/src/units/tenth)
-* [Unit 11](https://github.com/Combeter201/Java-I/tree/master/src/units/eleventh)
-* [Unit 12](https://github.com/Combeter201/Java-I/tree/master/src/units/twelfth)
-* [Unit 13](https://github.com/Combeter201/Java-I/tree/master/src/units/thirteenth)
+*This Repository contains Exercises and Solutions for Java of the first Semester of Computer Science*
+
+## IntelliJ IDEA ![Intellij](https://img.icons8.com/color/26/000000/intellij-idea.png)
+
+Install the latest Version of [IntelliJ](https://www.jetbrains.com/de-de/idea/download/#section=windows)
+
+## Exercises Solutions
+
+|Week| Exercises | Solutions |
+| --- | --- | --- |
+| 1 | Hello World, simple calculation |  |
+| 2 | swap Numbers, Geometry calculation, PQ-formula, Time output|  |
+| 3 | modulo, Pizza calculation, Characters, Dice |  |
+| 4 | valid Matnumber, valid Time, boolean, leap year |  |
+| 5 | free fall, row calculation, small 1x1, prime numbers |  |
+| 6 | temperature table, cross product, π-approximation, potency |  |
+| 7 | rekursion, round, faculty, display triangle |  |
+| 8 | Stars and Digits, fraction numbers, sinus calculation |  |
+| 9 | lottery, arithmetic mean/min/max, standard degression, concatenation |  |
+| 10 | Arrays, console input, hangman, String methods |  |
+| 11 | fields, classes/objects, pizza, simple calculator |  |
+| 12 | productioncounter, room/students, 2-dimensional fields, overload |  |
+| 13 | lotterylist, chained lists |  |
+
+:flashlight:	
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
