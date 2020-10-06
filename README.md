@@ -10,7 +10,7 @@
 
 |Week| Exercises | Solutions |
 | --- | --- | --- |
-| 1 | Hello World, simple calculation | :flashlight: click on the page :page_facing_up: |
+| 1 | Hello World, simple calculation | :flashlight: [click on the page](https://github.com/Combeter201/Java-I/tree/master/src/units/first) :page_facing_up: |
 | 2 | swap Numbers, Geometry calculation, PQ-formula, Time output| :flashlight: click on the page :page_facing_up: |
 | 3 | modulo, Pizza calculation, Characters, Dice | :flashlight: click on the page :page_facing_up: |
 | 4 | valid Matnumber, valid Time, boolean, leap year | :flashlight: click on the page :page_facing_up: |
