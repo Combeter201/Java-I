@@ -22,4 +22,4 @@
 | 10 | Arrays, console input, hangman, String methods | :flashlight: [show me](https://github.com/Combeter201/Java-I/tree/master/src/units/second) :page_facing_up: |
 | 11 | fields, classes/objects, pizza, simple calculator | :flashlight: [show me](https://github.com/Combeter201/Java-I/tree/master/src/units/second) :page_facing_up: |
 | 12 | productioncounter, room/students, 2-dimensional fields, overload | :flashlight: [show me](https://github.com/Combeter201/Java-I/tree/master/src/units/second) :page_facing_up: |
-| 13 | lotterylist, chained lists | :flashlight: [show me](https://github.com/Combeter201/Java-I/tree/master/src/units/second) :white_check_mark: |
+| 13 | lotterylist, chained lists | :white_check_mark: | [show me](https://github.com/Combeter201/Java-I/tree/master/src/units/second) |
