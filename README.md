@@ -4,8 +4,7 @@
 
 ## IntelliJ IDEA ![Intellij](https://img.icons8.com/color/26/000000/intellij-idea.png)
 
-[IntelliJ](https://www.jetbrains.com/de-de/idea/download/#section=windows) is a good and easy to work with IDEA for coding in Java
-
+[IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/download/#section=windows) is an integrated development environment (IDE) from the software company JetBrains for the programming languages Java, Kotlin, Groovy and Scala. Thus perfectly suitable for all exercises to Java I.
 ## Exercises Solutions
 
 |Week| Exercises | Solved | Solutions |
