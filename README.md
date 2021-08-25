@@ -1,6 +1,6 @@
 # Java I ![Java](https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png)
 
-*This Repository contains Exercises and Solutions for Java of the first Semester of Computer Science*
+*This Repository contains Exercises and Solutions for Java Programming of the first Semester of Computer Science*
 
 ## IntelliJ IDEA ![Intellij](https://img.icons8.com/color/26/000000/intellij-idea.png)
 
