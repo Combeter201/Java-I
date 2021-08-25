@@ -9,7 +9,7 @@
 ## Exercises Solutions
 
 |Week| Exercises | Solved | Solutions |
-| --- | --- | :---: | --- |
+| :---: | --- | :---: | --- |
 | 1 | Hello World, simple calculation | :white_check_mark: | [show me](https://github.com/Combeter201/Java-I/tree/master/src/units/first) |
 | 2 | swap Numbers, Geometry calculation, PQ-formula, Time output | :white_check_mark: | [show me](https://github.com/Combeter201/Java-I/tree/master/src/units/second) |
 | 3 | modulo, Pizza calculation, Characters, Dice | :white_check_mark: | [show me](https://github.com/Combeter201/Java-I/tree/master/src/units/third) |
